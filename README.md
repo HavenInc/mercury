@@ -16,6 +16,7 @@ Mercury is the God of Commerce, and he needs YOUR help.  Your challenge, shall y
 ### Bonus 2 ###
 
 - [ ] Store the created orders in the loopback Order model, and use it to provide the data for the Order display
+* See: https://docs.strongloop.com/display/public/LB/AngularJS+JavaScript+SDK
 
 
 ### Criteria ###
