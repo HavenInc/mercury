@@ -3,7 +3,7 @@
 Mercury is the God of Commerce, and he needs YOUR help.  Your challenge, shall you choose to accept it, is to build him a user (God) friendly, visually appealing stock ticker application.
 
 ### Application Requirements ###
-- [ ] The ability to add a stock based on it's ticker symbol
+- [ ] The ability to add a stock based on its ticker symbol
 - [ ] A display for these stock symbols and their corresponding prices
 - [ ] The ability to remove a stock symbol from the panel
 - [ ] Add unit tests
